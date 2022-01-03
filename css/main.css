@@ -48,3 +48,8 @@ li a{
     text-decoration: none;
     justify-content: center;
 }
+
+img{
+    width: 50%;
+    padding: 20px 300px;
+}
